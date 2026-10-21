@@ -1,7 +1,7 @@
 a = float(input("Число А: "))
 b = float(input("Число Б: "))
 
-print("Сумма:", a + b)
+print("Результат сложения:", a + b)
 print("Разность:", a - b)
 print("Произведение:", a * b)
 if b != 0:
